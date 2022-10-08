@@ -1,0 +1,7 @@
+PUT http://localhost:5000/notes/14
+Content-Type: application/json
+
+{
+    "tittle":"hola",
+    "content": "cambiamos la nota"
+}
